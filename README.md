@@ -25,20 +25,18 @@
 |---------------------------|--------------------------------------------------|
 | **Programación**          | Python, SQL                                      |
 | **Análisis de Datos**     | Pandas, NumPy, Matplotlib, SQL                   |
-| **Gestión de Bases de Datos** | MySQL, PostgreSQL                            |
-| **Metodología de desarrollo de software** | Scrum, Kanban                  |
+| **Gestión de Bases de Datos** | MySQL, PostgreSQL, SQL Developer                            |
+| **Metodología de desarrollo ágil** | Scrum, Kanban                          |
 
-## Contacto
-- **LinkedIn**: Ignacio Rodríguez Durán (https://www.linkedin.com/in/ignaciorodríguezdurán)
-- **Email**: Igrd1359@gmail.com 
-
----
-
-### Herramientas y Tecnologías
+### Herramientas y Tecnologías que manejo
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-FF5733?logo=oracle&logoColor=white)
+![SQL Data Modeler](https://img.shields.io/badge/-SQL%20Data%20Modeler-FF5733?logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 
+## Contacto
+- **LinkedIn**: Ignacio Rodríguez Durán (https://www.linkedin.com/in/ignaciorodríguezdurán)
+- **Email**: [Igrd1359@gmail.com](mailto:Igrd1359@gmail.com)
