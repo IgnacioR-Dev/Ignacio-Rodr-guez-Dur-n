@@ -40,6 +40,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-0052CC?logo=atlassian&logoColor=white)
-![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=trello&logoColor=white)
+
 
