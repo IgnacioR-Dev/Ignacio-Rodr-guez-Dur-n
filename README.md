@@ -25,7 +25,7 @@
 |---------------------------|--------------------------------------------------|
 | **Programación**          | Python, SQL                                      |
 | **Análisis de Datos**     | Pandas, NumPy, Matplotlib, SQL                   |
-| **Gestión de Bases de Datos** | PostgreSQL, SQL Developer, SQL DataModeler   |
+| **Bases de Datos** | PostgreSQL, SQL Developer, SQL DataModeler   |
 | **Metodología de desarrollo ágil** | Scrum, Kanban                           |
 
 ### Herramientas y Tecnologías que manejo
