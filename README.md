@@ -21,9 +21,9 @@ Hola! Soy Ignacio, un estudiante apasionado por la informática, actualmente me 
 
 ## Conocimientos y Habilidades
 - Programación: Python, SQL
-- Análisis de Datos: Pandas, NumPy, Matplotlib, Seaborn
+- Análisis de Datos: Pandas, NumPy, Matplotlib, SQL
 - Gestión de Bases de Datos: MySQL, PostgreSQL
-- Machine Learning: Fundamentos, Scikit-learn
+- Metodología de desarrollo de software: Scrum, Kanban
 
 ## Contacto
 - LinkedIn: Ignacio Rodríguez Durán (https://www.linkedin.com/in/ignaciorodríguezdurán)
