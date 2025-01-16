@@ -6,7 +6,7 @@
 ## Intereses
 - 📊 Informática Biomédica
 - 📈 Análisis de Datos
-- 🧠 Salud Mental
+- 🧠 Salud 
 - 💻 Desarrollo de Software
 - 🤖 Inteligencia Artificial
 
