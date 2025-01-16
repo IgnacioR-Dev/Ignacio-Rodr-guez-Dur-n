@@ -8,7 +8,6 @@
 - 📈 Análisis de Datos
 - 🧠 Salud Mental
 - 💻 Desarrollo de Software
-- 🖥️ Programación
 - 🤖 Inteligencia Artificial
 
 ## Avances Académicos
