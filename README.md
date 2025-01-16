@@ -7,7 +7,6 @@
 - 📊 Informática Biomédica
 - 📈 Análisis de Datos
 - 🧠 Salud Mental
-- 🤖 Machine Learning
 - 💻 Desarrollo de Software
 - 🖥️ Programación
 - 🤖 Inteligencia Artificial
