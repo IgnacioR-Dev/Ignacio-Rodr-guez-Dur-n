@@ -21,7 +21,7 @@
 
 | Habilidad                 | Descripción                                      |
 |---------------------------|--------------------------------------------------|
-| **Programación**          | Python, SQL                                      |
+| **Programación**          | Python, JavaScript, PL/SQL                                      |
 | **Análisis de Datos**     | Pandas, NumPy, Matplotlib, SQL                   |
 | **Bases de Datos** | PostgreSQL, MySQL, SQL Server, SQL Developer |
 | **Metodología de desarrollo ágil** | Scrum, Kanban                           |
