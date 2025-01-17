@@ -23,7 +23,7 @@
 |---------------------------|--------------------------------------------------|
 | **Programación**          | Python, JavaScript, PL/SQL                                      |
 | **Análisis de Datos**     | Pandas, NumPy, Matplotlib, SQL                   |
-| **Bases de Datos** | PostgreSQL, MySQL, SQL Server, SQL Developer |
+| **Bases de Datos** | PostgreSQL, MySQL, SQL Server, ORACLE SQL |
 | **Metodología de desarrollo ágil** | Scrum, Kanban                           |
 
 ### Herramientas y Tecnologías que manejo
