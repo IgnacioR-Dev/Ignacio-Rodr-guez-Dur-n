@@ -4,14 +4,14 @@
 ¡Hola! Soy Ignacio, un estudiante apasionado por la informática, actualmente me encuentro cursando la carrera de Informática Biomédica en el Instituto Duoc UC, Chile. Estoy comprometido con mi educación y motivado por adquirir nuevos aprendizajes y competencias que reflejen la calidad de profesional que aspiro a ser el día de mañana.
 
 ## Intereses
-- 📊 Informática Biomédica
+- 📊 Informática
 - 📈 Análisis de Datos
-- 🧠 Salud 
+- 🧠 Trabajo Colaborativo
 - 💻 Desarrollo de Software
-- 🤖 Inteligencia Artificial
+- 🤖 Ciberseguridad
 
 ## Avances Académicos
-- 📚 **Tercer año de**: Informática Biomédica
+- 📚 **Segundo año de**: Ingeniería en Informática
 - 🎓 **Instituto**: Duoc UC, Concepción, Chile
 - 🏅 **Certificaciones**:
   - Certificación en Fundamentos de Python 1 por Cisco
@@ -23,7 +23,7 @@
 |---------------------------|--------------------------------------------------|
 | **Programación**          | Python, JavaScript, PL/SQL                                      |
 | **Análisis de Datos**     | Pandas, NumPy, Matplotlib                   |
-| **Bases de Datos** | PostgreSQL, MySQL, SQL Server, ORACLE SQL |
+| **Bases de Datos** | PostgreSQL, MySQL, ORACLE SQL |
 | **Metodología de desarrollo ágil** | Scrum, Kanban                           |
 
 ### Herramientas y Tecnologías que manejo
