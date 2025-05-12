@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 **Acerca de mí**  
-¡Hola! Soy **Ignacio**, un estudiante de **Ingeniería en Informática** con mención en **Desarrollo de Software** en el **Instituto Duoc UC** (Chile). Mi pasión por la programación me ha llevado a aprender **Java**, **Python**, y **SQL**. Disfruto creando soluciones tecnológicas, principalmente en **backend**, pero también me interesa el **frontend** y desarrollo web básico. Estoy constantemente buscando mejorar mis habilidades y estar al día con las últimas tendencias tecnológicas.
+¡Hola! Soy **Ignacio**, un estudiante de **Ingeniería en Informática** especializado en **Desarrollo de Software** en el **Instituto Duoc UC** (Chile). Mi pasión por la programación me ha llevado a aprender **Java**, **Python**, y **SQL**. Disfruto creando soluciones tecnológicas, principalmente en **backend**, pero también me interesa el **frontend** y desarrollo de aplicaciones web. Estoy constantemente buscando mejorar mis habilidades y estar al día con las últimas tendencias tecnológicas.
 
 ---
 
