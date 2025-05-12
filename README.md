@@ -67,4 +67,4 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 ---
 
-## 🤝 ¿Construimos algo juntos? Estoy siempre dispuesto a colaborar, aprender y compartir conocimientos.
+## ¿Construimos algo juntos? Estoy siempre dispuesto a colaborar, aprender y compartir conocimientos. 🤝 
