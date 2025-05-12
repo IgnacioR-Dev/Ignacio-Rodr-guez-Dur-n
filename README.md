@@ -67,4 +67,4 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 ---
 
-## 🌟 **¡Conecta conmigo y sigamos aprendiendo juntos!** 🌟
+## 🤝 ¿Construimos algo juntos? Estoy siempre dispuesto a colaborar, aprender y compartir conocimientos.
