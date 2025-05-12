@@ -1,40 +1,67 @@
-# Ignacio Rodríguez Durán
+🌟 Ignacio Rodríguez Durán 🌟
+Estudiante de Ingeniería en Informática | Desarrollo de Software
 
-## Acerca de mí
-¡Hola! Soy Ignacio, un estudiante apasionado por la informática, actualmente me encuentro cursando la carrera de Informática Biomédica en el Instituto Duoc UC, Chile. Estoy comprometido con mi educación y motivado por adquirir nuevos aprendizajes y competencias que reflejen la calidad de profesional que aspiro a ser el día de mañana.
+👨‍💻 Acerca de mí
+¡Hola! Soy Ignacio, un estudiante de Ingeniería en Informática con mención en Desarrollo de Software en el Instituto Duoc UC (Chile). Mi pasión por la programación me ha llevado a aprender Java, Python, y SQL. Disfruto creando soluciones tecnológicas, principalmente en backend, pero también me interesa el frontend y desarrollo web básico. Estoy constantemente buscando mejorar mis habilidades y estar al día con las últimas tendencias tecnológicas.
 
-## Intereses
-- 📊 Informática
-- 📈 Análisis de Datos
-- 🧠 Trabajo Colaborativo
-- 💻 Desarrollo de Software
-- 🤖 Ciberseguridad
+💡 Intereses
+💻 Desarrollo de Software (Backend y Frontend)
 
-## Avances Académicos
-- 📚 **Segundo año de**: Ingeniería en Informática
-- 🎓 **Instituto**: Duoc UC, Concepción, Chile
-- 🏅 **Certificaciones**:
-  - Certificación en Fundamentos de Python 1 por Cisco
-  - Certificación en Fundamentos de Python 2 por Cisco
+⚙️ Automatización de Procesos
 
-## Conocimientos y Habilidades
+🧑‍💻 Programación en Java y Python
 
-| Habilidad                 | Descripción                                      |
-|---------------------------|--------------------------------------------------|
-| **Programación**          | Python, JavaScript, PL/SQL                                      |
-| **Análisis de Datos**     | Pandas, NumPy, Matplotlib                   |
-| **Bases de Datos** | PostgreSQL, MySQL, ORACLE SQL |
-| **Metodología de desarrollo ágil** | Scrum, Kanban                           |
+🌐 Desarrollo Web Básico (HTML, CSS, JavaScript)
 
-### Herramientas y Tecnologías que manejo
+🔒 Ciberseguridad
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-FF5733?logo=oracle&logoColor=white)
-![SQL Data Modeler](https://img.shields.io/badge/-SQL%20Data%20Modeler-FF5733?logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+🛠 Metodologías Ágiles (Scrum, Kanban)
+
+🎓 Avances Académicos
+📚 Actualmente en: Ingeniería en Informática, mención en Desarrollo de Software
+
+🎓 Instituto: Duoc UC, Concepción, Chile
+
+🏅 Certificaciones:
+
+🔖 Fundamentos de Python 1 - Cisco
+
+🔖 Fundamentos de Python 2 - Cisco
+
+🔖 Java Orientado a Objetos - Alura Latam
+
+🔖 SQL para Analítica (En proceso, si aplica)
+
+🛠 Conocimientos y Habilidades
+Habilidad	Nivel
+Lenguajes de Programación	Python (Intermedio), Java (Básico), JavaScript (Básico)
+Bases de Datos	SQL (Avanzado), MySQL, PostgreSQL, ORACLE SQL
+Desarrollo Web	HTML, CSS, JavaScript (Básico)
+Metodologías Ágiles	Scrum, Kanban
+Herramientas	Visual Studio Code, IntelliJ IDEA, SQL Developer
+
+⚙️ Herramientas y Tecnologías
 
 
-## Contacto
-- **LinkedIn**: Ignacio Rodríguez Durán (https://www.linkedin.com/in/ignaciorodríguezdurán)
-- **Email**: [Igrd1359@gmail.com](mailto:Igrd1359@gmail.com)
+
+
+
+
+
+🚀 Proyectos Destacados
+💰 Conversor de Monedas
+
+Desarrollado en Java, este proyecto interactúa con una API externa para realizar conversiones de divisas. Puedes ver el código en mi GitHub.
+
+🏥 Sistema de Gestión de Citas Médicas
+
+Sistema de gestión de citas médicas utilizando Python y base de datos MySQL. Este proyecto me permitió aplicar principios de desarrollo ágil y programación orientada a objetos.
+
+📲 Contacto
+LinkedIn: Ignacio Rodríguez Durán
+
+Email: Igrd1359@gmail.com
+
+GitHub: Ignacio-RDev
+
+🌟 ¡Conéctate conmigo y sigamos aprendiendo juntos! 🌟
