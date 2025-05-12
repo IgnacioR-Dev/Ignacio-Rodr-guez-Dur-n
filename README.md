@@ -28,9 +28,9 @@
   - 🔖 **Habilidades Comunicativas** - Instituto Duoc UC
   - 🔖 **Fundamentos de Python 1** - Cisco  
   - 🔖 **Fundamentos de Python 2** - Cisco  
-  - 🔖 ***Java Orientado a Objetos** - Alura Latam  
+  - 🔖 **Java Orientado a Objetos** - Alura Latam  
   - 🔖 **Fundamentos de Arquitectura Cloud y DevOps en AWS (Essentials)** - Capacitación Usach
-  - 🔖 ***Data Analytics Essentials** - Cisco
+  - 🔖 **Data Analytics Essentials** - Cisco
   - 🔖 **Introducción al Desarrollo Web** - Desafios Latam
  
   
