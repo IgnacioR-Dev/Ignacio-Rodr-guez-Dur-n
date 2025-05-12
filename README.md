@@ -1,5 +1,5 @@
 # 💻 Ignacio Rodríguez Durán 💻
-**Apasionado por la tecnología y la innovación**
+## Apasionado por la tecnología y la innovación
 
 
 ---
