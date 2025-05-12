@@ -1,4 +1,4 @@
-![Texto alternativo](https://github.com/tu-usuario/tu-repositorio/blob/main/ruta/a/la/imagen.png?raw=true)
+
 
 
 **Estudiante de Ingeniería en Informática** | **Desarrollo de Software**
