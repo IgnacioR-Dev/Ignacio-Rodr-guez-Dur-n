@@ -33,28 +33,27 @@
 - ☕ **Java Orientado a Objetos** - Alura Latam  
 - 🌐 **Introducción al Desarrollo Web** - Desafíos Latam
 
-
 ---
+## ⚙️ **Herramientas y Tecnologías que manejo**
 
-## 🛠 **Conocimientos y Habilidades**  
+### 🖥️ **Lenguajes de Programación**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
-| **Habilidad**                  | **Nivel**                                       |
-|---------------------------------|-------------------------------------------------|
-| **Lenguajes de Programación**   | Python (Intermedio), Java (Básico) |
-| **Bases de Datos**              | SQL (Avanzado)   |
-| **Desarrollo Web**              | HTML, CSS, JavaScript (Básico)                  |
-| **Metodologías Ágiles**         | Scrum, Kanban                                   |
-| **Herramientas**                | Git, GitHub, Bash|
+### 📄 **Lenguajes de Marcado y Estilo**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
----
+### 🗃️ **Bases de Datos**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-## ⚙️ **Herramientas y Tecnologías**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-FF5733?logo=oracle&logoColor=white)
+### 🛠️ **Herramientas**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+
 
 ---
 
