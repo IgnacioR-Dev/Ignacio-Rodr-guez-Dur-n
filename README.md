@@ -41,11 +41,11 @@
 
 | **Habilidad**                  | **Nivel**                                       |
 |---------------------------------|-------------------------------------------------|
-| **Lenguajes de Programación**   | Python (Intermedio), Java (Básico), JavaScript (Básico) |
-| **Bases de Datos**              | SQL (Avanzado), MySQL, PostgreSQL, ORACLE SQL   |
+| **Lenguajes de Programación**   | Python (Intermedio), Java (Básico) |
+| **Bases de Datos**              | SQL (Avanzado)   |
 | **Desarrollo Web**              | HTML, CSS, JavaScript (Básico)                  |
 | **Metodologías Ágiles**         | Scrum, Kanban                                   |
-| **Herramientas**                | Visual Studio Code, IntelliJ IDEA, SQL Developer|
+| **Herramientas**                | Git, GitHub, Bash|
 
 ---
 
@@ -54,24 +54,15 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
 ![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-FF5733?logo=oracle&logoColor=white)
 
 ---
 
-## 🚀 **Proyectos Destacados**  
-**💰 Conversor de Monedas**  
-- Desarrollado en **Java**, este proyecto interactúa con una API externa para realizar conversiones de divisas. Puedes ver el código en mi [GitHub](https://github.com/Ignacio-RDev/ConversorDeMonedas).
-
-**🏥 Sistema de Gestión de Citas Médicas**  
-- Sistema de gestión de citas médicas utilizando **Python** y base de datos **MySQL**. Este proyecto me permitió aplicar principios de desarrollo ágil y programación orientada a objetos.
-
----
-
 ## 📲 **Contacto**  
+
 - **LinkedIn**: [Ignacio Rodríguez Durán](https://www.linkedin.com/in/ignaciorodriguezduran/)  
 - **Email**: [Igrd1359@gmail.com](mailto:Igrd1359@gmail.com)  
-- **GitHub**: [Ignacio-RDev](https://github.com/Ignacio-RDev)
 
 ---
 
