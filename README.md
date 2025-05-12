@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 **Acerca de mí**  
-¡Hola! Soy **Ignacio**, un estudiante de **Ingeniería en Informática** especializado en **Desarrollo de Software**, y a lo largo de mi formación he desarrollado una gran pasión por la programación y las soluciones tecnológicas. A lo largo de mi carrera, he adquirido conocimientos sólidos en lenguajes como **Java**, **Python** y **SQL**. Disfruto creando soluciones tecnológicas, principalmente en **backend**, pero también me interesa el **frontend** y desarrollo de aplicaciones web. Estoy constantemente buscando mejorar mis habilidades y estar al día con las últimas tendencias tecnológicas.
+¡Hola! Soy **Ignacio**, un estudiante de **Ingeniería en Informática** especializado en **Desarrollo de Software**, y a lo largo de mi formación he desarrollado una gran pasión por la programación y las soluciones tecnológicas. A lo largo de mi carrera, he obtenido conocimientos sólidos en lenguajes como **Java**, **Python** y **SQL**. Disfruto creando soluciones tecnológicas, principalmente en **backend**, pero también me interesa el **frontend** y desarrollo de aplicaciones web. Estoy constantemente buscando mejorar mis habilidades y estar al día con las últimas tendencias tecnológicas.
 
 ---
 
