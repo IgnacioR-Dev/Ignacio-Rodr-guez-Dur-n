@@ -19,7 +19,7 @@
 ---
 
 ## 🎓 **Avances Académicos**  
-- 📚 **Actualmente en**: Ingeniería en Informática
+- 📚 **Actualmente en**: Ingeniería en Informática  
 - 🎓 **Instituto**: Duoc UC, Concepción, Chile  
 
 ### 🏅 **Certificaciones**:
@@ -34,6 +34,7 @@
 - 🌐 **Introducción al Desarrollo Web** - Desafíos Latam
 
 ---
+
 ## ⚙️ **Herramientas y Tecnologías**
 
 ### 🖥️ **Lenguajes de Programación**
@@ -53,7 +54,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
-
 
 ---
 
