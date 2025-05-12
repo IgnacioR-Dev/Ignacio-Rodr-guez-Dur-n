@@ -1,4 +1,4 @@
-
+💻 Ignacio Rodríguez Durán 💻
 
 
 **Estudiante de Ingeniería en Informática** | **Desarrollo de Software**
