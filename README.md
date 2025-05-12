@@ -26,12 +26,12 @@
 - 🎓 **Ánalisis y Planificación de Requerimientos Informáticos** - Instituto Duoc UC
 - 🎓 **Ánalisis y Desarrollo de Modelo de Datos** - Instituto Duoc UC
 - 🗣️ **Habilidades Comunicativas** - Instituto Duoc UC
+- ☁️ **Fundamentos de Arquitectura Cloud y DevOps en AWS (Essentials)** - Capacitación Usach
 - 🐍 **Fundamentos de Python 1** - Cisco  
 - 🐍 **Fundamentos de Python 2** - Cisco  
 - ☕ **Java Orientado a Objetos** - Alura Latam  
-- ☁️ **Fundamentos de Arquitectura Cloud y DevOps en AWS (Essentials)** - Capacitación Usach
 - 🌐 **Introducción al Desarrollo Web** - Desafíos Latam
-- 📈 **Data Analytics Essentials** - Cisco
+- 📈 **Ánalisis de Datos Essentials** - Cisco
 
 ---
 
