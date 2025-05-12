@@ -34,7 +34,7 @@
 - 🌐 **Introducción al Desarrollo Web** - Desafíos Latam
 
 ---
-## ⚙️ **Herramientas y Tecnologías*
+### ⚙️ **Herramientas y Tecnologías**
 
 ### 🖥️ **Lenguajes de Programación**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
