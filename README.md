@@ -1,4 +1,5 @@
-![ChatGPT Image 11 may 2025, 11_25_32 p m](https://github.com/user-attachments/assets/bbe1121a-10a9-43c8-a5e7-440298c10017)
+![yo 11 may 2025, 11_25_32 p m](https://github.com/user-attachments/assets/9db6ff00-00cb-48fa-9aa4-816338bd7c49)
+
 **Estudiante de Ingeniería en Informática** | **Desarrollo de Software**
 
 
