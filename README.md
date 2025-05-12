@@ -1,5 +1,5 @@
-# 💻 Ignacio Rodríguez Durán 💻
-## Apasionado por la tecnología y la innovación
+# 💻  Ignacio Rodríguez Durán  💻
+**Buscando soluciones innovadoras para el futuro digital 🌐 | Transformando ideas en código 👨‍💻💡** 
 
 
 ---
