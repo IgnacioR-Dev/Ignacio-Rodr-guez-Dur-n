@@ -22,6 +22,7 @@
 - 📚 **Actualmente en**: Ingeniería en Informática
 - 🎓 **Instituto**: Duoc UC, Concepción, Chile  
 - 🏅 **Certificaciones**:
+  
   - 🔖 **Ánalisis y PLanificación de Requerimientos Informáticos** - Instituto Duoc UC
   - 🔖 **Ánalisis y Desarrollo de Modelo de Datos** - Instituto Duoc UC
   - 🔖 **Habilidades Comunicativas** - Instituto Duoc UC
