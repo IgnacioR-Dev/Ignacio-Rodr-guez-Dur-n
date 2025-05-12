@@ -30,7 +30,7 @@
 - 🐍 **Fundamentos de Python 2** - Cisco  
 - ☕ **Java Orientado a Objetos** - Alura Latam  
 - ☁️ **Fundamentos de Arquitectura Cloud y DevOps en AWS (Essentials)** - Capacitación Usach
-- 📊 **Data Analytics Essentials** - Cisco
+- 📈 **Data Analytics Essentials** - Cisco
 - 🌐 **Introducción al Desarrollo Web** - Desafíos Latam
 
 ---
