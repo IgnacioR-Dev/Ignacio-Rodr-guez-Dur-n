@@ -59,10 +59,7 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ### 🛠️ **Herramientas**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![StarUML](https://img.shields.io/badge/-StarUML-1B91F7?logo=appveyor&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![StarUML](https://img.shields.io/badge/-StarUML-1B91F7?logo=appveyor&logoColor=white)  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ---
 
