@@ -30,9 +30,9 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 - 🎓 **Instituto**: Duoc UC, Concepción, Chile  
 
 ### **Certificaciones**:
+- 🗣️ **Habilidades Comunicativas** - Instituto Duoc UC
 - 🎓 **Ánalisis y Planificación de Requerimientos Informáticos** - Instituto Duoc UC
 - 🎓 **Ánalisis y Desarrollo de Modelo de Datos** - Instituto Duoc UC
-- 🗣️ **Habilidades Comunicativas** - Instituto Duoc UC
 - ☁️ **Fundamentos de Arquitectura Cloud y DevOps en AWS (Essentials)** - Capacitación Usach
 - 🐍 **Fundamentos de Python 2** - Cisco
 - 🐍 **Fundamentos de Python 1** - Cisco  
