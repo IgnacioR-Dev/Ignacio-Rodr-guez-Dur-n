@@ -8,13 +8,13 @@
 
 Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**, **Python** y **SQL**, enfocándome principalmente en el desarrollo **backend**, aunque también me interesa el mundo del **frontend** y el desarrollo de aplicaciones web modernas. Me considero una persona comprometida con la mejora continua, curioso y en constante búsqueda de conocimiento y buenas prácticas que me permitan crecer como profesional. Mi objetivo es aportar valor a través de soluciones eficientes, escalables y centradas en las personas.
 
-<p>
+<p align = "center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFubzV1bTdzNDA5YzVza3RnM3ZtOHN1M2d2cjQyanV6MXJ4Z3FnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programando con estilo" width="200"/>
 </p>
 
 ---
 
-## 💡 **Intereses**  
+## **Intereses**  
 - 💻 **Desarrollo de Software** (Backend y Frontend)  
 - ⚙️ **Automatización de Procesos**  
 - 🧑‍💻 **Programación en Java y Python**  
@@ -24,11 +24,11 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 ---
 
-## 🎓 **Avances Académicos**  
+## **Avances Académicos**  
 - 📚 **Actualmente en**: Ingeniería en Informática  
 - 🎓 **Instituto**: Duoc UC, Concepción, Chile  
 
-### 🏅 **Certificaciones**:
+### **Certificaciones**:
 - 🎓 **Ánalisis y Planificación de Requerimientos Informáticos** - Instituto Duoc UC
 - 🎓 **Ánalisis y Desarrollo de Modelo de Datos** - Instituto Duoc UC
 - 🗣️ **Habilidades Comunicativas** - Instituto Duoc UC
@@ -41,7 +41,7 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 ---
 
-## ⚙️ **Conocimientos en:**
+## **Conocimientos en:**
 
 ### 🖥️ **Programación**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
