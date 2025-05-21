@@ -17,7 +17,7 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 - 🧑‍💻 **Programación en Java y Python**  
 - 🌐 **Desarrollo Web** (HTML, CSS, JavaScript)  
 - 🔒 **Ciberseguridad**  
-- 🛠 **Metodologías Ágiles** (Scrum, Kanban)
+- 🛠 **Calidad de Software** 
 
 ---
 
