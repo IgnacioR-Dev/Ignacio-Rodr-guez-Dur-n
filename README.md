@@ -15,10 +15,10 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ---
 
 ## **Intereses**  
-- 💻 **Desarrollo de Software** (Backend y Frontend)  
+- 💻 **Ingeniería y Desarrollo de Software**   
 - ⚙️ **Automatización de Procesos**  
 - 🧑‍💻 **Programación en Java y Python**  
-- 🌐 **Desarrollo Web** (HTML, CSS, JavaScript)  
+- 🌐 **Desarrollo Web** 
 - 🔒 **Ciberseguridad**  
 - 🛠 **Calidad de Software** 
 
