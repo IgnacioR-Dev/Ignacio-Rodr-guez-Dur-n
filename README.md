@@ -30,8 +30,8 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 - 🎓 **Ánalisis y Desarrollo de Modelo de Datos** - Instituto Duoc UC
 - 🗣️ **Habilidades Comunicativas** - Instituto Duoc UC
 - ☁️ **Fundamentos de Arquitectura Cloud y DevOps en AWS (Essentials)** - Capacitación Usach
-- 🐍 **Fundamentos de Python 1** - Cisco  
 - 🐍 **Fundamentos de Python 2** - Cisco
+- 🐍 **Fundamentos de Python 1** - Cisco  
 - 📈 **Ánalisis de Datos Essentials** - Cisco 
 - ☕ **Java Orientado a Objetos** - Alura Latam  
 - 🌐 **Introducción al Desarrollo Web** - Desafíos Latam
