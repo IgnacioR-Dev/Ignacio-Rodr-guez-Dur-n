@@ -44,13 +44,13 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ## **Conocimientos en:**
 
 ### 🖥️ **Programación**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.java.com/)
 
 ### **Frameworks** 
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) [![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
 
 ### 📄 **Lenguajes de Marcado y Estilo**
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 ### 🗃️ **Bases de Datos**
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) 
