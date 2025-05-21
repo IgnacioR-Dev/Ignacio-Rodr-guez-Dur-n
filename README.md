@@ -77,16 +77,6 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 </div>
 
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-</style>
-
-
-
 ## **Conocimientos en:**
 
 ### 🖥️ **Programación**
