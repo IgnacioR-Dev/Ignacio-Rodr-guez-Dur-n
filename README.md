@@ -46,36 +46,45 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 <div style="max-width: 600px; margin: auto;">
 
   <h3>Lenguajes de Programación</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="animation: float 3s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" style="animation: float 3s ease-in-out infinite;">
+  <div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 20px; justify-content: flex-start;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
   </div>
 
   <h3>Frameworks</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" style="animation: float 3s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" style="animation: float 3s ease-in-out infinite;">
+  <div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 20px; justify-content: flex-start;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
   </div>
 
   <h3>Lenguajes de Marcado y Estilo</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="animation: float 3s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="animation: float 3s ease-in-out infinite;">
+  <div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 20px; justify-content: flex-start;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
   </div>
 
   <h3>Base de Datos</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" style="animation: float 3s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" style="animation: float 3s ease-in-out infinite;">
+  <div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 20px; justify-content: flex-start;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
   </div>
 
   <h3>Herramientas</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" style="animation: float 3s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" style="animation: float 3s ease-in-out infinite;">
+  <div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 20px; justify-content: flex-start;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
   </div>
 
 </div>
+
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
 
 ## **Conocimientos en:**
 
