@@ -63,8 +63,8 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 ## **Contacto**  
 
-- **LinkedIn**: [Ignacio Rodríguez Durán](https://www.linkedin.com/in/ignaciorodriguezduran/)  
-- **Email**: [Igrd1359@gmail.com](mailto:Igrd1359@gmail.com)  
+**LinkedIn**: [Ignacio Rodríguez Durán](https://www.linkedin.com/in/ignaciorodriguezduran/)  
+**Email**: [Igrd1359@gmail.com](mailto:Igrd1359@gmail.com)  
 
 ---
 
