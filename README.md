@@ -1,5 +1,5 @@
 # Ignacio Rodríguez Durán  💻  
-**Buscando adquirir y compartir conocimiento para un mejor futuro digital 👨‍💻**  
+**Buscando adquirir y compartir conocimiento para un mejor futuro digital. 👨‍💻**  
 
 ---
 
@@ -26,8 +26,8 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ---
 
 ## **Avances Académicos**  
-- 📚 **Actualmente en**: Ingeniería en Informática  
-- 🎓 **Instituto**: Duoc UC, Concepción, Chile  
+📚 **Actualmente en**: Ingeniería en Informática. 
+🎓 **Instituto Profesional**: Duoc UC, Concepción, Chile.
 
 ### **Certificaciones**:
 - 🗣️ **Habilidades Comunicativas** - Instituto Duoc UC
