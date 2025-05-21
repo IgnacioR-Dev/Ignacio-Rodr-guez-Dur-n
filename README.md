@@ -41,51 +41,6 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 ---
 
-<h2>🚀 Conocimientos en:</h2>
-
-<div style="max-width: 600px; margin: auto;">
-
-  <h3>Lenguajes de Programación</h3>
-  <div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 20px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
-  </div>
-
-  <h3>Frameworks</h3>
-  <div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 20px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
-  </div>
-
-  <h3>Lenguajes de Marcado y Estilo</h3>
-  <div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 20px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
-  </div>
-
-  <h3>Base de Datos</h3>
-  <div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 20px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
-  </div>
-
-  <h3>Herramientas</h3>
-  <div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 20px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" style="animation: float 3s ease-in-out infinite; max-width: 30%;">
-  </div>
-
-</div>
-
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-</style>
-
-
 ## **Conocimientos en:**
 
 ### 🖥️ **Programación**
@@ -103,6 +58,24 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ### 🛠️ **Herramientas**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
 ![StarUML](https://img.shields.io/badge/-StarUML-1B91F7?logo=appveyor&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+
+## 🚀 Conocimientos en:
+
+<p align="center">
+
+<!-- Badges -->
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" style="margin:5px"/>
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" style="margin:5px"/>
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" style="margin:5px"/>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" alt="Spring" style="margin:5px"/>
+
+<!-- Iconos SVG -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" height="30" style="margin:5px; vertical-align: middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" height="30" style="margin:5px; vertical-align: middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask Icon" height="30" style="margin:5px; vertical-align: middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Icon" height="30" style="margin:5px; vertical-align: middle;"/>
+
+</p>
 
 ---
 
