@@ -43,12 +43,12 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 ---
 
-## **Conocimientos en:**
+## **Conocimientos**
 
 ### 🖥️ **Programación**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 
-### **Frameworks**   
+### 🧱 **Frameworks**   
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 
 ### 📄 **Lenguajes de Marcado y Estilo**  
@@ -67,7 +67,7 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 ---
 
-## 📲 **Contacto**  
+## **Contacto**  
 
 - **LinkedIn**: [Ignacio Rodríguez Durán](https://www.linkedin.com/in/ignaciorodriguezduran/)  
 - **Email**: [Igrd1359@gmail.com](mailto:Igrd1359@gmail.com)  
