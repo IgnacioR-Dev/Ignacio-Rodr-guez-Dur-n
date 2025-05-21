@@ -44,7 +44,7 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ## **Conocimientos en:**
 
 ### 🖥️ **Programación**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" height="30" style="margin:5px; vertical-align: middle;"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" height="30" style="margin:5px; vertical-align: middle;"/>      
 
 ### **Frameworks:** 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
