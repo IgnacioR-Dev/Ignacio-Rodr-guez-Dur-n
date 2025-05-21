@@ -44,25 +44,20 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ## **Conocimientos en:**
 
 ### 🖥️ **Programación**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)         
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) & ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)         
 
-#### **Frameworks:** ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+### **Frameworks:** 
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) & ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 
 ### 📄 **Lenguajes de Marcado y Estilo**
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) & ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 ### 🗃️ **Bases de Datos**
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ### 🛠️ **Herramientas**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![StarUML](https://img.shields.io/badge/-StarUML-1B91F7?logo=appveyor&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
+![StarUML](https://img.shields.io/badge/-StarUML-1B91F7?logo=appveyor&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ---
 
