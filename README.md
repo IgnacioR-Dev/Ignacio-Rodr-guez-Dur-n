@@ -43,31 +43,48 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 <h2 align="center">🚀 Conocimientos en:</h2>
 
-<div align="center">
+<div align="center" style="max-width: 600px; margin: auto;">
+  
   <h3>Lenguajes de Programación</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  </div>
+
   <h3>Frameworks</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
-  <h3> Lenguajes de Marcado y Estilo</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  </div>
+
+  <h3>Lenguajes de Marcado y Estilo</h3>
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  </div>
+
   <h3>Base de Datos</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
-   <h3>Herramientas</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  </div>
+
+  <h3>Herramientas</h3>
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  </div>
+
 </div>
 
 <style>
 @keyframes float {
-  0% { transform: translatey(0px); }
-  50% { transform: translatey(-10px); }
-  100% { transform: translatey(0px); }
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
 }
 </style>
+
 
 ## **Conocimientos en:**
 
