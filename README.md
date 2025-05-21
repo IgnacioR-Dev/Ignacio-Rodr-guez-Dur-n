@@ -1,9 +1,5 @@
 # 💻  Ignacio Rodríguez Durán  💻
-**Buscando soluciones innovadoras para el futuro digital 🌐 | Transformando ideas en código 👨‍💻💡** <p>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFubzV1bTdzNDA5YzVza3RnM3ZtOHN1M2d2cjQyanV6MXJ4Z3FnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programando con estilo" width="200"/>
-</p>
-
-
+**Buscando soluciones innovadoras para el futuro digital 👨‍💻💡** 
 
 ---
 
@@ -12,6 +8,9 @@
 
 Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**, **Python** y **SQL**, enfocándome principalmente en el desarrollo **backend**, aunque también me interesa el mundo del **frontend** y el desarrollo de aplicaciones web modernas. Me considero una persona comprometida con la mejora continua, curioso y en constante búsqueda de conocimiento y buenas prácticas que me permitan crecer como profesional. Mi objetivo es aportar valor a través de soluciones eficientes, escalables y centradas en las personas.
 
+<p>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFubzV1bTdzNDA5YzVza3RnM3ZtOHN1M2d2cjQyanV6MXJ4Z3FnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programando con estilo" width="200"/>
+</p>
 ---
 
 ## 💡 **Intereses**  
