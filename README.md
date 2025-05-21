@@ -69,3 +69,27 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ---
 
 ## ¿Construimos algo juntos? Estoy siempre dispuesto a colaborar, aprender y compartir conocimientos. 🤝 
+<h2 align="center">🚀 Conocimientos en:</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" style="margin: 10px; animation: float 3s ease-in-out infinite;">
+</div>
+
+<style>
+@keyframes float {
+  0% { transform: translatey(0px); }
+  50% { transform: translatey(-10px); }
+  100% { transform: translatey(0px); }
+}
+</style>
+
+
