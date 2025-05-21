@@ -38,7 +38,7 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 
 ---
 
-## ⚙️ **Conocimientos destacados en:**
+## ⚙️ **Conocimientos en:**
 
 ### 🖥️ **Programación**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -60,7 +60,7 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ### 🛠️ **Herramientas**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![StarUML](https://img.shields.io/badge/-StarUML-1B91F7?logo=appveyor&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ---
