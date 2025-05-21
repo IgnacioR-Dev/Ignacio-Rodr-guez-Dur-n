@@ -44,10 +44,10 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ## **Conocimientos en:**
 
 ### 🖥️ **Programación**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" height="30" style="margin:5px; vertical-align: middle;"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" height="30" style="margin:5px; vertical-align: middle;"/>      
+**Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" height="30" style="margin:5px; vertical-align: middle;"/>  **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" height="30" style="margin:5px; vertical-align: middle;"/>      
 
 ### **Frameworks:** 
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  **Spring** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Icon" height="30" style="margin:5px; vertical-align: middle;"/>
 
 ### 📄 **Lenguajes de Marcado y Estilo**
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
@@ -58,24 +58,6 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ### 🛠️ **Herramientas**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
 ![StarUML](https://img.shields.io/badge/-StarUML-1B91F7?logo=appveyor&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
-
-## 🚀 Conocimientos en:
-
-<p align="center">
-
-<!-- Badges -->
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" style="margin:5px"/>
-<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" style="margin:5px"/>
-<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" style="margin:5px"/>
-<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" alt="Spring" style="margin:5px"/>
-
-<!-- Iconos SVG -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" height="30" style="margin:5px; vertical-align: middle;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" height="30" style="margin:5px; vertical-align: middle;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask Icon" height="30" style="margin:5px; vertical-align: middle;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Icon" height="30" style="margin:5px; vertical-align: middle;"/>
-
-</p>
 
 ---
 
