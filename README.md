@@ -4,8 +4,7 @@
 ---
 
 ## **Acerca de mí**  
-¡Hola! Soy **Ignacio**, un estudiante de **Ingeniería en Informática** especializado en **Desarrollo de Software** y tengo una profunda pasión por la programación como herramienta para transformar ideas en soluciones reales. 
-
+¡Hola! Soy **Ignacio**, un estudiante de **Ingeniería en Informática** especializado en **Desarrollo de Software** y tengo una profunda pasión por la programación y las soluciones de calidad.
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFubzV1bTdzNDA5YzVza3RnM3ZtOHN1M2d2cjQyanV6MXJ4Z3FnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programando con estilo" width="150"/>
 </p>
