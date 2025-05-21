@@ -44,10 +44,10 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 ## **Conocimientos en:**
 
 ### 🖥️ **Programación**
-**Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" height="30" style="margin:5px; vertical-align: middle;"/>  **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" height="30" style="margin:5px; vertical-align: middle;"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" height="50" style="margin:7px; vertical-align: middle;"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" height="50" style="margin:8px; vertical-align: middle;"/>      
 
 ### **Frameworks:** 
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  **Spring** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Icon" height="30" style="margin:5px; vertical-align: middle;"/>
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  **Spring** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Icon" height="50" style="margin:8px; vertical-align: middle;"/>
 
 ### 📄 **Lenguajes de Marcado y Estilo**
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
