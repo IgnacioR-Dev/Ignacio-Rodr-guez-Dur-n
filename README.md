@@ -1,5 +1,5 @@
 # Ignacio Rodríguez Durán  💻
-**Buscando soluciones innovadoras para el futuro digital 👨‍💻** 
+**Buscando adquirir y compartir conocimiento para un mejor futuro digital 👨‍💻** 
 
 ---
 
