@@ -1,4 +1,4 @@
-# Ignacio Rodríguez Durán  💻  
+# Ignacio Rodriguez Duran  💻  
 **Buscando adquirir y compartir conocimiento para un mejor futuro digital 👨‍💻**  
 
 ---
