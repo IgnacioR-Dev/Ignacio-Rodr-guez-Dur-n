@@ -9,26 +9,21 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFubzV1bTdzNDA5YzVza3RnM3ZtOHN1M2d2cjQyanV6MXJ4Z3FnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programando con estilo" width="150"/>
 </p>
 
-Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**, **Python** y **SQL**, enfocándome principalmente en el desarrollo **backend**, aunque también me interesa el mundo del **frontend** y el desarrollo de aplicaciones web modernas. Me considero una persona comprometida con la mejora continua, curioso y en constante búsqueda de conocimiento y buenas prácticas que me permitan crecer como profesional. Mi objetivo es aportar valor a través de soluciones eficientes, escalables y centradas en las personas.
-
-**Estoy siempre abierto a nuevos desafíos que me permitan aprender y contribuir con mis habilidades.**
+Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**, **Python** y **SQL**, enfocándome principalmente en el desarrollo **backend**, aunque también me interesa el mundo del **frontend** y el desarrollo de aplicaciones web modernas. Me considero una persona en constante búsqueda de conocimiento y buenas prácticas que me permitan crecer como profesional. Mi objetivo es aportar valor a través de soluciones eficientes, escalables y centradas en las personas.
 
 ---
 
 ## **Intereses**  
-- 💻 **Ingeniería y Desarrollo de Software**   
+- 💻 **Ingeniería de Software**   
 - ⚙️ **Automatización de Procesos**  
-- 🧑‍💻 **Programación en Java y Python**  
-- 🌐 **Desarrollo Web** 
-- 🔒 **Ciberseguridad**  
-- 🛠 **Calidad de Software** 
-
+- 🧑‍💻 **Desarrollo Mobile**  
+- 🌐 **Desarrollo Web**  
 ---
 
 ## **Avances Académicos**  
-📚 **Actualmente en**: Ingeniería en Informática
+📚 **Actualmente en**: Cuarto Semestre de Ingeniería en Informática.
 
-🎓 **Instituto Profesional**: Duoc UC, Concepción, Chile
+🎓 **Instituto Profesional**: Duoc UC, Concepción, Chile.
 
 ### **Certificaciones**:
 - 🗣️ **Habilidades Comunicativas** - Instituto Duoc UC
@@ -38,7 +33,7 @@ Durante mi formación, estoy adquiriendo experiencia en lenguajes como **Java**,
 - 🐍 **Fundamentos de Python 2** - Cisco
 - 🐍 **Fundamentos de Python 1** - Cisco  
 - 📈 **Ánalisis de Datos Essentials** - Cisco 
-- ☕ **Java Orientado a Objetos** - Alura Latam  
+- ☕ **Formación BackEnd con Java y Spring Boot** - Alura Latam  
 - 🌐 **Introducción al Desarrollo Web** - Desafíos Latam
 
 ---
